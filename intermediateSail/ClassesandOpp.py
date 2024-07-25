@@ -49,4 +49,3 @@ if __name__ == "__main__":
 
 
 '''This is a code snippet of my undestanding of basic classes or OOP -Object Oriented Programming'''
-#Sincerely this code is all over the place 😒
